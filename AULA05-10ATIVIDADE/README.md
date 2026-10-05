@@ -1,5 +1,3 @@
-# AULA-05-10
-
 # Resolução de Desafios Práticos
 
 * **Estudante:** Sidney Ferreira da Silva
